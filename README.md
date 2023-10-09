@@ -27,15 +27,17 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 [Credits](#credits)
 
 Installation
-To complete teh installation, run npm init to intiallize package.json. Next add the dependecies that are required and are outlined in the module 18 challenge.
+To complete the installation, run npm init to intiallize package.json. Next add the dependecies that are required and are outlined in the module 18 challenge.
 
 Usage
 Walkthrough video:
 
-https://watch.screencastify.com/v/T5KyARTkZAvFdx2LcckC
+https://watch.screencastify.com/v/LFNJ1ZiJsZ9PD2la1HTx
+
 
 Screenshots:
 ![alt text](./assets/post%20thought.png) 
+![alt text](./assets/get%20thought.png)
 
 
 Credits
