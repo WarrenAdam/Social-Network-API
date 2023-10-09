@@ -35,11 +35,8 @@ Walkthrough video:
 https://watch.screencastify.com/v/T5KyARTkZAvFdx2LcckC
 
 Screenshots:
-md ![alt text](assets/images/GET%20PRODUCTS%20LIST.png) 
-md ![alt text](assets/images/GET%20PRODUCTS%20BY%20ID.png) 
-md ![alt text](assets/images/POST%20NEW%20PRODUCT.png) 
-md ![alt text](assets/images/PUT%20REQUEST.png) 
-md ![alt text](assets/images/DELETE.png) 
+![alt text](./assets/post%20thought.png) 
+
 
 Credits
 To better understand Mongoose , I watched the following video: https://www.youtube.com/watch?v=DZBGEVgL2eE
